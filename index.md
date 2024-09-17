@@ -19,3 +19,8 @@ Below is a list:
 ```python
 def hello_world():
     print("Hello, world!")
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+- [ ] This is an incomplete item
